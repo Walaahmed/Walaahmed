@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/dR0Jtby.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Walaa Ahmed</h1>
-<h3 align="center">🚀 Frontend Developer | React.js | JavaScript | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer | React.js | Next.js | Angular | UI/UX Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me
-💻 Passionate about creating **interactive & responsive web apps**  
-🌱 Currently learning **Next.js & TypeScript**  
+💻 Passionate about creating **interactive & responsive web & mobile apps**  
+🌱 Currently learning **Advanced Next.js & Flutter animations**  
 🎯 Goal: Deliver beautiful, user-friendly digital experiences  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/walaa-ahmed) | [Email](mailto:wlaa61462@gmail.com)  
 
@@ -16,7 +16,7 @@
 
 ### 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,tailwind,flutter,dart,reactnative,git,github,vscode,figma" />
 </p>
 
 ---
