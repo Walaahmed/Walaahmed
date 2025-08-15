@@ -7,10 +7,20 @@
 ---
 
 ### 🌟 About Me
-💻 Passionate about creating **interactive & responsive web & mobile apps**  
-🌱 Currently learning **Advanced Next.js & Flutter animations**  
-🎯 Goal: Deliver beautiful, user-friendly digital experiences  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/walaa-ahmed) | [Email](mailto:wlaa61462@gmail.com)  
+I am a passionate **Frontend Developer** with a strong focus on building clean, responsive, and user-friendly web applications.  
+I specialize in turning complex problems into simple, elegant solutions using **modern web technologies** like HTML5, CSS3, JavaScript, React.js, Next.js, and TailwindCSS.  
+
+💡 I have a keen eye for design and believe that a great UI/UX is just as important as performance.  
+I enjoy creating interactive components, optimizing applications for speed, and ensuring compatibility across devices and browsers.  
+
+🚀 Over time, I have worked on various projects including **e-commerce platforms, dashboards, movie apps, and clinic management systems**.  
+These projects have enhanced my skills in **state management, API integration, reusable components, and performance optimization**.  
+
+🌱 I’m constantly learning and exploring new tools and frameworks in the frontend ecosystem to stay up-to-date with industry trends.  
+My goal is to craft web experiences that are **visually appealing, highly functional, and accessible** for all users.  
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/walaa-ahmed) | [Email](mailto:wlaa61462@gmail.com)
+
 
 ---
 
