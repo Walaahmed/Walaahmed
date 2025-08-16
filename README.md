@@ -48,7 +48,7 @@ My goal is to craft web experiences that are **visually appealing, highly functi
 
 ### 🌍 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/walaa-ahmed">
+  <a href="http://linkedin.com/in/walaa-ahmed-a73783262">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:wlaa61462@gmail.com">
