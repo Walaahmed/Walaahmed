@@ -20,7 +20,7 @@ These projects have enhanced my skills in **state management, API integration, r
 🌱 I’m constantly learning and exploring new tools and frameworks in the frontend ecosystem to stay up-to-date with industry trends.  
 My goal is to craft web experiences that are **visually appealing, highly functional, and accessible** for all users.  
 
-📫 How to reach me: **[Email](mailto:wlaa61462@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/walaa-ahmed)**
+📫 How to reach me: **[Email](mailto:wlaa61462@gmail.com)** | **[LinkedIn](http://linkedin.com/in/walaa-ahmed-a73783262)**
 
 ---
 
